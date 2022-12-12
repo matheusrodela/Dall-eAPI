@@ -1,0 +1,13 @@
+.titleWrapper{
+    margin: 2rem 0 1rem;
+  }
+  
+    h1{
+      line-height: 2rem;
+      padding: 1rem 0;
+    }
+  
+    h2{
+      line-height: 2rem;
+      padding: 1rem 0;
+    }

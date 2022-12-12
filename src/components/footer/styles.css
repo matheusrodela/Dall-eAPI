@@ -1,0 +1,14 @@
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    padding: 1rem;
+    margin-top: 4rem;
+    background-color: #101010;
+    width: 100vw;
+}
+
+.authorName{
+    color: #157d1f;
+}
